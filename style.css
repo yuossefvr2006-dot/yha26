@@ -1,0 +1,38 @@
+body {
+    color: rgb(93, 0, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.card{
+background-color: rgb(3, 1, 1);
+color:rgb(13, 5, 5);
+width: 500px;
+max-width: 600px;
+margin: 30px auto;
+}
+.card{
+border: 5px solid #007171;
+border-radius: 20px;
+padding: 40px;
+background-color: rgb(191, 188, 30);
+
+}
+.card h1{
+    color: rgb(232, 231, 192);
+    font-size: 50px;
+font-style: italic;
+
+}
+.card a{
+background-color: rgb(29, 76, 66);
+color:rgb(221, 217, 217);
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 5px solid #294c4c;
+border-radius: 20px;
+font-size: 50px;
+} 
+.card a:hover{
+    background-color: brown;
+}        
